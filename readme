@@ -1,0 +1,9 @@
+Formatul fisierului de scriere/citire este urmatorul:
+
+
+Movie Name; Rerlease Year; Publisher; Viewer rating; Langauge array imploded by ','
+
+Ex:
+Jaws;2006;Warner Bros;8.5;English,Romanian
+Capt. Phillips;2013;Warner Bros;9.2;English,German
+Millionaire;2004;Warner Bros;8.6;Indian,Punjabi
